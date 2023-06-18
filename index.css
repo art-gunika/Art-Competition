@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1605721911519-3dfeb3be25e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    text-shadow: 4px 4px 3px white;
+    font-size: x-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}
+
+#increment-btn {
+    border-bottom: 10px solid  #000814 ; 
+    border-radius: 20px;
+    background-color:  #001d3d;
+    color:  white;
+    text-shadow: 4px 4px 3px black;
+    padding: 30px 70px;
+    font-size: xx-large; 
+    font-weight: bolder;
+}
+
+#increment-btn:hover {
+    background-color: #091926;
+}
+#save-btn {
+    border-bottom: 10px solid #386641; 
+    border-radius: 20px;
+    background-color: #6a994e;
+    color:  white;
+    text-shadow: 4px 4px 3px black;
+    padding: 30px 70px;
+    font-size: xx-large; 
+    font-weight: bolder;
+    margin-left: 20px;
+}
+#save-btn:hover {
+    background-color: #18392b;
+}
+.btnss {
+    display: block;
+    margin: auto;
+}
+
+#save-el {
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
